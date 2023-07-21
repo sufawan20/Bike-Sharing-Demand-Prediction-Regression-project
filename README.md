@@ -1,0 +1,2 @@
+# Bike-Sharing-Demand-Prediction-Regression-project
+This project aims to enhance the mobility and convenience of the public through bike-sharing programs in metropolitan areas. One of the main challenges is maintaining a consistent supply of bikes for rental.The project focuses on utilizing historical data on factor of temperature and time to predict the demand for the bike-sharing program in Seoul.
